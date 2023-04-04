@@ -1,0 +1,12 @@
+#root {
+  max-width: 100vw;
+  text-align: center;
+}
+
+body{
+  background-color: #9d67b2;
+opacity: 1;
+background-image: radial-gradient(circle at center center, #b400ff, #9d67b2), repeating-radial-gradient(circle at center center, #b400ff, #b400ff, 4px, transparent 8px, transparent 4px);
+background-blend-mode: multiply;
+  color: white;
+}
